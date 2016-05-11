@@ -3,7 +3,8 @@ function validate() {
 	var password = document.getElementById("password").value;
 	if (username == "hasib" && password == "asd123") {
 		alert("logged in successfully");
-		window.location = "../pages/index.html";
+		// window.location = "../pages/index.html";
+    welcomespan.innerHTML = "username";
 	}
 	else
 		alert("please provide valid username or password");
