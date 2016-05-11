@@ -1,0 +1,12 @@
+This is a project to learn javascript supervised by Rafat vai.
+First task was to create a calculator.
+Second task is this described as following:
+	1. Create a simple login form
+		- One lavel
+		- One Username text input
+		- One Password text input
+		- One button to sign in (verified)
+	2. If the user logs in with the correct id and password then the user will see a page that has the following things:
+		- One input date field (can be hard coded inside the code)
+		- One countdown filed where the countdown is viewed in day, hour and second
+

@@ -1,0 +1,15 @@
+body {
+	background-color: linen;
+}
+
+.bodyDiv {
+	margin: auto;
+    width: 28%;
+    border: 3px solid #73AD21;
+    padding: 16px;
+    margin-top: 163px;
+}
+#buttonSubmit {
+	border-color: #81b442;
+	margin-left: 280px;
+}
